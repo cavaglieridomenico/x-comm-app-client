@@ -1,0 +1,15 @@
+FROM node:17-alpine3.14
+
+WORKDIR /usr/src/app/client
+
+COPY package*.json ./
+
+RUN npm install
+
+COPY  . .
+
+RUN mkdir -p node_modules/.cache && chmod -R 777 node_modules/.cache
+
+EXPOSE 3000
+
+CMD ["npm", "start"]
