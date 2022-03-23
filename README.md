@@ -18,6 +18,8 @@
 <a href="https://x-comm-app.netlify.app/">x-comm-app.netlify.app/</a>
 </div>
 
+<hr/>
+
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/cavaglieridomenico/x-comm-app-client?color=56BEB8">
 
@@ -67,11 +69,11 @@ The following tools were used in this project:
 
 ## :pushpin: Requirements
 
-<h2>for local installation</h2>
+<h3>for local installation</h3>
 
 Before starting, you need to have [Node](https://nodejs.org/en/) installed.
 
-<h2>Starting</h2>
+<h3>Starting</h3>
 
 ```bash
 # Access
@@ -92,11 +94,11 @@ $ npm test
 $ npm run build
 ```
 
-<h2>for Docker container (dev mode)</h2>
+<h3>for Docker container (dev mode)</h3>
 
 Before starting, you need to have [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed.
 
-<h2>Starting</h2>
+<h3>Starting</h3>
 
 ```bash
 # Access
