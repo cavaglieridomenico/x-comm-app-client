@@ -384,7 +384,7 @@ const Search = () => {
       )}
       productName={getResponseData(
         metricsResult,
-        'product_name',
+        'name',
         'string',
         '<data not available>'
       )}
