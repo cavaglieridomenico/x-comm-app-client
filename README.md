@@ -1,15 +1,18 @@
-<div align="center">
-  <img src='client/public/logo-x-comm-app.png' height= 50/>
-</div>
-
-<br/>
-<div align="center">
+<div id="top" align="center">
   <img src='client/public/app-repo-1.png' height= 350 />
   <img src='client/public/app-repo-2.png' height= 350 />
   <img src='client/public/app-repo-3.png' height= 350 />
   <img src='client/public/app-repo-4.png' height= 350 />
 </div>
 &#xa0;
+
+<hr/>
+
+<div align="center">
+  <img src='client/public/logo-x-comm-app.png' height= 70/>
+</div>
+
+<hr/>
 
   <p>Deploy:
 <a href="https://x-comm-app.netlify.app/">x-comm-app.netlify.app/</a>
