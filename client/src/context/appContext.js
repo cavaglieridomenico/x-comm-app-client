@@ -18,7 +18,7 @@ const AppContext = React.createContext();
 
 const defaultState = {
   //User
-  currentUser: false,
+  currentUser: null,
   //Upload file
   isDataAvailable: false,
   alreadyRequestedUpload: false,
