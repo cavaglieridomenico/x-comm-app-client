@@ -48,8 +48,12 @@ The purpose of the whole project is to create a Web App for an Ecommerce, where 
 The interface is a single page application built with React.<br>
 Main features implemented:<br>
 useReducer, useContext, useRef, Router 6.
+
 <br>
+
 The development followed the <a href="https://github.com/tomorrowdevs-projects/team2-real-world-app/projects" target="_blank">project tasks</a>.
+
+<br>
 
 ## :pushpin: Technologies
 
@@ -67,13 +71,13 @@ The following tools were used in this project:
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://docs.npmjs.com/)
 
+<br>
+
 ## :pushpin: Requirements
 
 <h3>for local installation</h3>
 
 Before starting, you need to have [Node](https://nodejs.org/en/) installed.
-
-<h3>Starting</h3>
 
 ```bash
 # Access
@@ -98,8 +102,6 @@ $ npm run build
 
 Before starting, you need to have [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed.
 
-<h3>Starting</h3>
-
 ```bash
 # Access
 $ choose the root
@@ -108,6 +110,8 @@ $ choose the root
 $ docker-compose up
 
 ```
+
+<br>
 
 ## :memo: License
 
